@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MilesToKilometers</string>
+    <string name="app_title">Miles to kilometers</string>
+    <string name="miles_label">Miles</string>
+    <string name="km_unit">km</string>
+</resources>
